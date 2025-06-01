@@ -1,6 +1,6 @@
 # **🚨 DeepViolence Detector: A Real-time Video Violence Detection featuring Swin3D technology and easy to use GUI 🎥**
 
-This repository presents a robust solution for real-time violence detection in video streams, leveraging a fine-tuned Swin Transformer V2 (Swin3D) model and an intuitive Graphical User Interface (GUI). The project covers the complete pipeline from data preprocessing and model training to local deployment and interactive inference.
+This repository presents a robust solution for real-time violence detection in video streams, leveraging a fine-tuned Swin3D model and an intuitive Graphical User Interface (GUI). The project covers the complete pipeline from data preprocessing and model training to local deployment and interactive inference.
 
 ## **📝 Table of Contents**
 
