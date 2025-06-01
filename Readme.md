@@ -19,9 +19,8 @@ This repository presents a robust solution for real-time violence detection in v
 * [Contact](#bookmark=id.hzg7ov2d6329)
 
 ## **🚀 Project Overview**
-<video controls width="720" height="640">
-    <source src="src\Demo.mp4" type="video/mp4">
-</video>
+
+https://github.com/user-attachments/assets/4a3c158a-9bbb-4ebd-80a1-d0f7df7be75b
 
 A demonstration showcasing our model's performance in detecting violence of a real life CCTV footage.
 
