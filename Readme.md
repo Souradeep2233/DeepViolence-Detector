@@ -24,7 +24,7 @@ https://github.com/user-attachments/assets/4a3c158a-9bbb-4ebd-80a1-d0f7df7be75b
 
 A demonstration showcasing our model's performance in detecting violence of a real life CCTV footage.
 
-    The core mission of the DeepViolence Detector is to automatically identify violent acts within video content/ Live Stream as deployed. This capability is increasingly vital for enhancing public safety, content moderation, increasing crimes against women and overall security surveillance. By employing a powerful deep learning model and providing a user-friendly interface, this project aims to make advanced video analytics accessible.
+The core mission of the DeepViolence Detector is to automatically identify violent acts within video content/ Live Stream as deployed. This capability is increasingly vital for enhancing public safety, content moderation, increasing crimes against women and overall security surveillance. By employing a powerful deep learning model and providing a user-friendly interface, this project aims to make advanced video analytics accessible.
 
 The project encompasses:
 
